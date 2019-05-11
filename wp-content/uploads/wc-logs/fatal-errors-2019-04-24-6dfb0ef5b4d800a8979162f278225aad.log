@@ -1,0 +1,4 @@
+2019-04-24T16:28:19+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 28672 bytes) in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\inc\shortcodes\ux_pages.php on line 150
+
+2019-04-24T17:00:48+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 28672 bytes) in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\inc\shortcodes\ux_pages.php on line 150
+

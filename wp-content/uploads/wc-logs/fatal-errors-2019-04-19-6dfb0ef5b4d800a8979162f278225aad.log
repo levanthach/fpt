@@ -1,0 +1,30 @@
+2019-04-19T16:50:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\inc\shortcodes\ux_products.php on line 4
+
+2019-04-19T16:53:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-includes\pomo\entry.php on line 74
+
+2019-04-19T16:53:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 16
+
+2019-04-19T16:55:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-admin\includes\template.php on line 12
+
+2019-04-19T16:56:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-includes\widgets\class-wp-widget-meta.php on line 19
+
+2019-04-19T16:56:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_Logger.php on line 7
+
+2019-04-19T16:56:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-includes\class-wp-customize-widgets.php on line 19
+
+2019-04-19T16:56:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\plugins\yith-woocommerce-wishlist\plugin-fw\lib\yit-upgrade.php on line 10
+
+2019-04-19T16:56:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\inc\functions\function-custom-css.php on line 3
+
+2019-04-19T16:56:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 15
+
+2019-04-19T16:56:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 15
+
+2019-04-19T16:57:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-includes\wp-db.php on line 1924
+
+2019-04-19T16:57:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-admin\includes\media.php on line 16
+
+2019-04-19T16:59:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_wpPostStore_PostStatusRegistrar.php on line 7
+
+2019-04-19T16:59:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\inc\admin\kirki\field\class-kirki-field-typography.php on line 15
+

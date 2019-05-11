@@ -1,0 +1,20 @@
+2019-04-13T17:04:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-includes\customize\class-wp-customize-custom-css-setting.php on line 19
+
+2019-04-13T17:04:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\inc\admin\kirki\field\class-kirki-field-color.php on line 15
+
+2019-04-13T17:04:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-includes\class-requests.php on line 145
+
+2019-04-13T17:05:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-includes\Requests\Cookie\Jar.php on line 15
+
+2019-04-13T17:06:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 15
+
+2019-04-13T17:06:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\plugins\woocommerce\includes\class-wc-regenerate-images-request.php on line 12
+
+2019-04-13T17:06:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-assets.php on line 9
+
+2019-04-13T17:08:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 15
+
+2019-04-13T17:08:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-taxonomies.php on line 12
+
+2019-04-13T17:09:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-admin\includes\class-wp-list-table.php on line 16
+

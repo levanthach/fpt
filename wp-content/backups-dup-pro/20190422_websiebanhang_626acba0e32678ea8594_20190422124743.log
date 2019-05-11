@@ -1,0 +1,249 @@
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2019-04-22 12:48:51
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	3.7.3.1
+WORDPRESS:	5.0.4
+PHP INFO:	7.2.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 5000M (256M default) 
+RUN TYPE: Manual
+MEMORY STACK: 4MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP 
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:34 | filtered:0 | create:34 
+FILTERED: [] 
+RESPONSE: Ran from C:/xampp/mysql/bin/mysqldump.exe 
+SQL CREATED: 20190422_websiebanhang_626acba0e32678ea8594_20190422124743_database.sql 
+SQL FILE SIZE: 1.3MB 
+SQL FILE TIME: 2019-04-22 12:48:54 
+SQL RUNTIME: 2.872 sec. 
+MEMORY STACK: 4MB 
+
+******************************************************************************** 
+ARCHIVE Mode:ZipArchive Multi-Threaded 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/banhang 
+ARCHIVE FILE: 20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip 
+COMPRESSION: *ON* 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+FILES:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	115.12MB 
+STATS:	Dirs 863 | Files 6,888 | Total 7,751 
+SQL ADDED: 20190422_websiebanhang_626acba0e32678ea8594_20190422124743_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1151
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1267
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1376
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1628
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1744
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2080
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2388
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2770
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2885
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3217
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3363
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3757
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4276
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4881
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5372
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6302
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6835
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7264
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7684
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7751
+    [filename] => C:\xampp\htdocs\banhang\wp-content\backups-dup-pro\tmp\20190422_websiebanhang_626acba0e32678ea8594_20190422124743_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSED SIZE: 45.22MB 
+ARCHIVE RUNTIME: 7.419 sec. 
+MEMORY STACK: 6MB 
+Installer files added to archive 
+
+******************************************************************************** 
+STORAGE: 
+******************************************************************************** 
+LOCAL: Default, C:/xampp/htdocs/banhang/wp-content/backups-dup-pro 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL FILE: 1.3MB 
+INSTALLER FILE: 29.08KB 
+ARCHIVE FILE: 46.12MB  
+EXPECTED FILE/DIRECTORY COUNT: 7,751 
+ACTUAL FILE/DIRECTORY COUNT: 7,751 
+ARCHIVE CONSISTENCY TEST: Pass 
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 705.459 sec.
+PEAK PHP MEMORY USED: 4MB
+DONE PROCESSING => 20190422_websiebanhang 2019-04-22 13:00:36
+ 

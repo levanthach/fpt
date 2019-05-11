@@ -1,0 +1,28 @@
+2019-04-16T06:15:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\template-parts\posts\layout-right-sidebar.php on line 2
+
+2019-04-16T06:16:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\inc\shortcodes\team_members.php on line 3
+
+2019-04-16T06:17:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-includes\plugin.php on line 177
+
+2019-04-16T06:22:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-admin\includes\file.php on line 16
+
+2019-04-16T06:28:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-admin\includes\media.php on line 16
+
+2019-04-16T06:31:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-importers.php on line 13
+
+2019-04-16T06:31:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-admin\includes\misc.php on line 16
+
+2019-04-16T06:35:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 15
+
+2019-04-16T06:36:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-includes\user.php on line 431
+
+2019-04-16T06:54:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-includes\functions.php on line 4918
+
+2019-04-16T06:59:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-customize.php on line 11
+
+2019-04-16T07:01:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-admin\includes\media.php on line 16
+
+2019-04-16T07:01:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-admin\includes\misc.php on line 16
+
+2019-04-16T07:03:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\banhang\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-notices.php on line 14
+
